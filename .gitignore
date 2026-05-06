@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Python
+agora/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Archives & extracted experiment templates (kept locally only)
+*.zip
+openrouter-llm-orchestrator/
+openrouter-llm-orchestrator-2/
+package-lock.json
+
+# Editor
+.vscode/
+.idea/
+
+# Build
+dist/
+build/
